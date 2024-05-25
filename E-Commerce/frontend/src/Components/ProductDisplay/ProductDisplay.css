@@ -88,7 +88,8 @@
     width: 200px;
     font-size: 16px;
     font-weight: 600;
-    color: #ff4141;
+    background-color: #ff4141;
+    color: white;
     margin-bottom: 40px;
     border: none;
     outline: none;
