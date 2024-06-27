@@ -366,6 +366,10 @@ form .btn2{
 
 /* -----------------------CSS for Smaller Screens----------------------- */
 
+nav .fa-solid{
+    display: none;
+}
+
 @media only screen and (max-width: 600px){
     #header{
         background-image: url(images/phone-background.png);
